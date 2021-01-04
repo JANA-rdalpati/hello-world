@@ -1,5 +1,4 @@
 # hello-world
-Starter tutorial for Git
 
 Hello there!
 
